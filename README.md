@@ -13,3 +13,6 @@ A web-based simulation tool developed for designing silicon processors and compl
 * **Microsoft Edge Uyumluluğu / Microsoft Edge Optimized:** Edge tarayıcısında akıcı ve sorunsuz çalışma.
 * **Kurulum Gerektirmez / No Installation:** Doğrudan tarayıcı üzerinden hızlı erişim.
 * **İşlemci Tasarımı / Processor Design:** Sıfırdan kendi silikon mimarinizi ve devrelerinizi oluşturma imkanı.
+
+## ÖZEL UYARI!/SPECIAL WARNING!
+* **Bu uygulama PC için yapılmıştır,mobil uyumlu değildir./This application is for PC only and is not compatible with mobile devices.
