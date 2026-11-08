@@ -10,7 +10,6 @@ A web-based simulation tool developed for designing silicon processors and compl
 
 ## Özellikler / Features
 * **Yüksek Kapasite / High Capacity:** On binlerce mantık kapısını (logic gate) gecikme olmadan işleyebilme.
-* **Microsoft Edge Uyumluluğu / Microsoft Edge Optimized:** Edge tarayıcısında akıcı ve sorunsuz çalışma.
 * **Kurulum Gerektirmez / No Installation:** Doğrudan tarayıcı üzerinden hızlı erişim.
 * **İşlemci Tasarımı / Processor Design:** Sıfırdan kendi silikon mimarinizi ve devrelerinizi oluşturma imkanı.
 
